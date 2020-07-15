@@ -36,3 +36,8 @@ BeTobaccoFree.gov
 API`s:
 https://chronicdata.cdc.gov/browse?category=Global+Survey+Data
 
+
+Sam - age sliding scale through years frequency per year 
+Tim - race education frequency per year 
+Manny - frequency use per year 
+Brad - compile api and geo locations 
