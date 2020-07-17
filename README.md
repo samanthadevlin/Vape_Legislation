@@ -1,6 +1,6 @@
-# Vape_Statstics  
+# Vape_Legislation 
 
-Vape Statistics
+Vape_Legislation
 
 (HA) Hypothesis: The adoption of anti-E-cigarette legislation by states has a direct impact to reducing the percentage of adult E-cigarette users. 
 
