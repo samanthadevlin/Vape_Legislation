@@ -1,43 +1,20 @@
-# Vape_Statstics  
+# Vape_Legislation 
 
-Vape Statistics
+Vape_Legislation
 
-Null Hypothesis (Ho): 
-We believe the introduction to e-cigarette has fundamentally changed the tobacco demographic and consumption.
+(HA) Hypothesis: The adoption of anti-E-cigarette legislation by states has a direct impact to reducing the percentage of adult E-cigarette users. 
 
-The Alternate Hypothesis (Ha):
-E-cigarette did not fundamentally change the tobacco demographic and consumption.
+(HO) Null: The adoption of Anit-E-cigarette legislation by states does not have a direct impact on reducing the percentage of adult E-cigarette users.
 
-
-Time Frame: 2012-2018
-
-Gender/Age
-	Percentage to Male/Female/Other
-  Race 
-  
-Location: USA 
-
-Socioeconomics
-	Income 
-	Education
-	Access to resources 
-	Housing 
-
-Consumption 
-	Sales of:
-Standard cigarettes 
-E-cigarette
-Chewing tobacco 
-
-Data Sources 
-	CDC
-	World Health Organization 
-BeTobaccoFree.gov 
-API`s:
-https://chronicdata.cdc.gov/browse?category=Global+Survey+Data
+Data Sources:
+	CDC STATE System E-Cigarette Legislation - Tax
+	U.S. Department of Health & Human Services — 1995-2020. 
+	Centers for Disease Control and Prevention (CDC). 
+	State Tobacco Activities Tracking and Evaluation(STATE) System. 
+	E-Cigarette Legislation—Tax
+	Behavioral Risk Factor Data: Tobacco Use (2011 to present)Survey Data 2011-2018. 
+	Centers for Disease Control and Prevention (CDC). 
+	State Tobacco Activities Tracking and Evaluation (STATE) System. 
+	BRFSS Survey Data.
 
 
-Sam - age sliding scale through years frequency per year 
-Tim - race education frequency per year compare age race and ed with age 
-Manny - frequency use per year 
-Brad - compile api and geo locations 
