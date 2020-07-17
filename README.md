@@ -12,5 +12,9 @@ Data Sources:
 	Centers for Disease Control and Prevention (CDC). 
 	State Tobacco Activities Tracking and Evaluation(STATE) System. 
 	E-Cigarette Legislation—Tax
+	Behavioral Risk Factor Data: Tobacco Use (2011 to present)Survey Data 2011-2018. 
+	Centers for Disease Control and Prevention (CDC). 
+	State Tobacco Activities Tracking and Evaluation (STATE) System. 
+	BRFSS Survey Data.
 
 
