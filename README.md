@@ -1,6 +1,5 @@
 # Vape_Legislation 
 
-Vape_Legislation
 
 Vape_Legislation
 
